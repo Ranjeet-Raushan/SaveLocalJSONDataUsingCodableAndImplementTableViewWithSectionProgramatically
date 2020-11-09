@@ -8,6 +8,7 @@ import Foundation
 
  
 class ViewController: UIViewController {
+     var result: Result?
     /* Table View Programatically - starts here */
     let tableView : UITableView = {
         let table = UITableView(frame: .zero,
@@ -17,7 +18,7 @@ class ViewController: UIViewController {
     }()
    /* Table View Programatically - ends here */
     
-    var result: Result?
+  
     override func viewDidLoad() {
         super.viewDidLoad()
         /* Table View Programatically - starts here */
