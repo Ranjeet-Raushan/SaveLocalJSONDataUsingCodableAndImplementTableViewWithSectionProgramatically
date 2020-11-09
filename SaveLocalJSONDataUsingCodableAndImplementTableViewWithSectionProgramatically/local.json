@@ -1,0 +1,37 @@
+{
+    "data": [
+        {   "title": "Fruits",
+            "items": [
+            "Orange",
+            "Apple",
+            "Banana",
+            "Mango"
+            ]
+       },
+        {   "title": "Cars",
+             "items": [
+             "BMW",
+             "Benz",
+             "Maruti",
+             "Tata"
+             ]
+        },
+        {   "title": "Programming",
+             "items": [
+             "Java",
+             "Python",
+             "Swift",
+             "Go"
+             ]
+        },
+        {   "title": "Editor",
+             "items": [
+             "Eclipse",
+             "PythonEditor",
+             "XCode",
+             "Google"
+             ]
+        }
+    ]
+}
+
